@@ -9,3 +9,6 @@
 
 This line is added locally
 This line is added remotely
+
+This change is made in sample branch
+This change is also made in sample branch.
